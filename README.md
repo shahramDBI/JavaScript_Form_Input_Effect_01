@@ -1,4 +1,3 @@
-# JavaScript_Form_Input_Effect_01-
 <p>######################### About This Code #########################</p>
 <h1>JavaScript_Form_Input_Effect_01</h1>
 <br>
